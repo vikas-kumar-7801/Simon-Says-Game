@@ -116,6 +116,8 @@ function levelUp() {
   gameSeq.push(randColor);
   console.log(gameSeq);
   gameFlash(randBtn);
+  console.log("Anushka");
+  console.log("system");
 }
 
 function checkAns(idx) {
